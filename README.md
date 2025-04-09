@@ -5,7 +5,7 @@ This repository contains several Java programs created as part of an Object-Orie
 
 ## Programs Included
 
-### **Program01: Employee Payroll Calculator**
+### 1. **Program01: Employee Payroll Calculator**
 **Learning Objectives:**
 - Handling user input using `Scanner`
 - Formatting numerical output with `DecimalFormat`
@@ -17,7 +17,7 @@ This program collects employee details such as name, ID, hourly wage, and hours 
 
 
 
-### **Program02: Currency Breakdown Calculator**  
+### 2. **Program02: Currency Breakdown Calculator**  
 **Learning Objectives:**  
 - Utilizing `Scanner` for user input  
 - Implementing conditional logic for currency denomination calculations  
@@ -29,7 +29,7 @@ This program takes a dollar amount as input and breaks it down into various curr
 
 
 
-### **Program03: Employee Class & Object-Oriented Approach**
+### 3. **Program03: Employee Class & Object-Oriented Approach**
 **Learning Objectives:**
 - Implementing object-oriented programming (OOP) principles
 - Creating and utilizing Java classes and constructors
@@ -41,7 +41,7 @@ This program introduces the `Employee` class, encapsulating payroll calculations
 
 
 
-### **Program04: Bookstore and Library Book Management**
+### 4. **Program04: Bookstore and Library Book Management**
 **Learning Objectives:**
 - Implementing and using arrays to store objects
 - Handling conditional statements and loops for user interaction
@@ -53,7 +53,7 @@ This program simulates a book inventory system where users can create and catego
 
 
 
-### **Program05: University People Management System**  
+### 5. **Program05: University People Management System**  
 **Learning Objectives:**  
 - Implementing **inheritance** for class hierarchy  
 - Validating **unique 7-digit UCF IDs**  
